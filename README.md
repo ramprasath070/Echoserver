@@ -63,7 +63,11 @@ server_socket.close()
 
 ## OUTPUT:
 
-<img width="1762" height="350" alt="image" src="https://github.com/user-attachments/assets/00c1e87e-e8f8-48a1-a64c-b1896a7c5cbc" />
+<img width="814" height="195" alt="image" src="https://github.com/user-attachments/assets/7d6cddda-ce11-4e2f-8f4d-0a1b676f3e7c" />
+
+<img width="861" height="179" alt="image" src="https://github.com/user-attachments/assets/201c22c7-700d-47f8-8564-836e15e8fb2f" />
+
+
 
 
 ## RESULT:
